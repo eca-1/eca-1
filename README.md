@@ -26,4 +26,3 @@ I am studying at University of Phayao
 
 <a href="http://www.github.com/eca-1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eca-1&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1">
