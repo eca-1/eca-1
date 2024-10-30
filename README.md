@@ -26,5 +26,3 @@ I am studying at University of Phayao
 
 <a href="http://www.github.com/eca-1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eca-1&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-Hi My name is Jay <font size="4">nice to meet you</font><br>
-<font size="2">I am studying at University of Phayao</font>
