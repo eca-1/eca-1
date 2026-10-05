@@ -24,7 +24,7 @@ Passionate Computer Science student with a strong interest in **Software Develop
   * Average inference speed: **0.108 s/image**
   * Fully deployed on **Raspberry Pi 4B** with camera input and Load Cell sensor
 
-#### 🎬 [Thai Movie Sentiment Analysis](https://github.com/eca-1/thai-sentiment-analysis)
+#### 🎬 [Thai Movie Sentiment Analysis]([https://github.com/eca-1/thai-sentiment-analysis](https://github.com/IIDEAPEERAWIT/thai-movie-sentiment-analysis.git))
 > Natural Language Processing and Machine Learning web application for classifying sentiment in Thai movie reviews.
 * **Tech Stack:** `Python` • `Streamlit` • `scikit-learn` • `PyThaiNLP` • `TF-IDF`
 * **Highlights:**
