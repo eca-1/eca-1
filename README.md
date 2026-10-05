@@ -24,7 +24,15 @@ Passionate Computer Science student with a strong interest in **Software Develop
   * Average inference speed: **0.108 s/image**
   * Fully deployed on **Raspberry Pi 4B** with camera input and Load Cell sensor
 
-#### 🎬 [Thai Movie Sentiment Analysis]([https://github.com/eca-1/thai-sentiment-analysis](https://github.com/IIDEAPEERAWIT/thai-movie-sentiment-analysis.git))
+#### ♻️ [Smart Waste Rewards System](https://github.com/eca-1/smart-waste-rewards)
+> AI-powered smart recycling prototype that identifies waste items, recommends proper disposal bins, and calculates reward points.
+* **Tech Stack:** `Python` • `FastAPI` • `YOLO` • `Object Detection` • `REST API` • `Computer Vision`
+* **Highlights:**
+  * Multi-object detection and real-time counting using pretrained YOLO
+  * Automated waste-to-bin recommendation logic
+  * Integrated detection workflow with **FastAPI backend** to handle member points, transaction history, and dashboard updates
+
+#### 🎬 [Thai Movie Sentiment Analysis](https://github.com/eca-1/thai-sentiment-analysis)
 > Natural Language Processing and Machine Learning web application for classifying sentiment in Thai movie reviews.
 * **Tech Stack:** `Python` • `Streamlit` • `scikit-learn` • `PyThaiNLP` • `TF-IDF`
 * **Highlights:**
